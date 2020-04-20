@@ -15,6 +15,6 @@ switch ($action) {
 }
 
 ?>
-<a href="?action=login" target="_blank" >获取refersh token</a>
+1. <a href="?action=login" target="_blank" >获取refersh token</a>
 <br>
-<a href="run.php" target="_blank" >运行测试</a>
+2. <a href="run.php" target="_blank" >运行测试</a>
